@@ -9,6 +9,6 @@
 ## 公開ページ
 
 * [https://zenkei-ai-forum.github.io/ZAM202103/](https://zenkei-ai-forum.github.io/ZAM202103/)
-* [PDF ファイル](https://zenkei-ai-forum.github.io/ZAM202103/ZAM202103-with-cover.pdf)
-* コピー本印刷用 [PDF ファイル](https://zenkei-ai-forum.github.io/ZAM202103/ZAM202103-for-print.pdf) - B4 両面コピー（横綴じ）で B5 の冊子が出来上がります。
+* [PDF ファイル](https://zenkei-ai-forum.github.io/ZAM202103/ZAM202103-v2-with-cover.pdf)
+* コピー本印刷用 [PDF ファイル](https://zenkei-ai-forum.github.io/ZAM202103/ZAM202103-v2-for-print.pdf) - B4 両面コピー（横綴じ）で B5 の冊子が出来上がります。
 
